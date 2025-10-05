@@ -1,61 +1,62 @@
-# 👋 Hi there, I'm Manan (manan2607)!
+# Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
 
-I'm an enthusiastic Full-Stack Developer and passionate learner who enjoys turning complex problems into elegant, efficient, and user-friendly solutions. I love working with modern web technologies and contributing to open-source projects.
+### Data Scientist 💡 | Cloud Automation Specialist ⚙️ | DevSecOps Advocate 🛡️
 
----
-
-### 🌱 I'm currently focused on:
-* Deepening my expertise in **TypeScript** and **Next.js**.
-* Exploring **LLM integration** and **AI/ML workflows** in web applications.
-* Improving my **DevOps** skills with **Docker** and **Kubernetes**.
-
-### 💻 Core Technologies & Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express, Python, Django/Flask, RESTful APIs |
-| **Databases** | MongoDB, PostgreSQL, Firebase/Firestore |
-| **DevOps/Tools** | Git, GitHub Actions, Docker, AWS (S3, EC2 - [Optional]) |
-
-<br>
-
-### 🛠️ Favorite Tools & Languages Badges
-
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)]()
-[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 The Full-Stack AI/MLOps Stack (Your Value Proposition)
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Connect with me on LinkedIn]([PLACEHOLDER: YOUR LINKEDIN URL]) |
-| **Portfolio** | [Check out my personal website]([PLACEHOLDER: YOUR PORTFOLIO URL]) |
-| **Twitter/X** | [Follow me on Twitter]([PLACEHOLDER: YOUR TWITTER/X HANDLE]) |
-| **Email** | [manan2607@email.com](mailto:[PLACEHOLDER: YOUR EMAIL]) |
+This section highlights the specialized, high-value skills sought by top remote companies.
+
+| Category | Key Tools & Expertise | 
+ | ----- | ----- | 
+| **Cloud & Infrastructure** | **GCP** (Cloud Run Functions, APIGW), **Terraform** (IaC), Docker, Kubernetes (Basic), Snowflake, Python | 
+| **Automation & DevOps** | **GitHub Actions** (CI/CD), CI/CD/CT Pipeline Design, Bash Scripting, Testing Automation | 
+| **AI/ML/DL** | Python, Pandas, NLP (Hugging Face Transformers), Transfer Learning, Financial Metrics (Sharpe/Alpha) | 
+| **Security & Governance** | **Okta/SCIM** Integration, Data Warehouse Security, IaC Security, Enterprise Automation | 
 
 ---
 
-### 🔥 GitHub Stats
+### 💻 Signature Projects (Proof of Production Skills & Versatility)
+
+My repositories showcase end-to-end automation and application development across diverse domains.
+
+| Project Name | Primary Domain | Skills Validated | 
+ | ----- | ----- | ----- | 
+| **Colgate Workflows** | Enterprise DevSecOps | **Terraform**, **Okta/SCIM**, GCP Infrastructure, Snowflake/DOMO Integration | 
+| **FinZen** | **Financial MLOps** | Quant Metrics (Sharpe/Alpha), Time Series Analysis, **Automated Reporting (GitHub Actions)** | 
+| **QuickBytes** | **NLP Automation** | Generative AI (Hugging Face), Web Scraping, CI/CD Pipeline Reliability | 
+| **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP | 
+| **Fione** | **Computer Vision** | Deep Learning, Transfer Learning, Image Classification (Fire Detection) | 
+| **Multi Modal System** | **Advanced AI** | Multimodal Input Analysis (Face/Voice), Deepface, Whisper Integration | 
+
+---
+
+### 🔥 Certifications & Looking Ahead
+
+* **Learning:** Deepening my expertise in **Kubernetes** and **MLflow**.
+
+* **Certifications:** Planning the **HashiCorp Certified: Terraform Associate** and **Google Professional Cloud ML Engineer** certifications.
+
+* **Goal:** Seeking a challenging **MLOps Engineer** or **Applied AI Engineer (Remote/Global)** position to maximize my impact and earnings.
+
+---
+
+### 🌱 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=manan2607&show_icons=true&theme=vue&hide_border=true" alt="Manan's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manan2607&theme=vue&hide_border=true" alt="Manan's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=manan2607&show_icons=true&theme=vue&hide_border=true&count_private=true&title_color=2596be&text_color=444444" alt="Manan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan2607&layout=compact&langs_count=6&theme=vue&hide_border=true&title_color=2596be&text_color=444444" alt="Top Languages" />
 </p>
 
-<!-- Optional: Add this if you want to show your top languages -->
-<!--
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan2607&layout=compact&theme=vue&hide_border=true" alt="Manan's Top Languages" />
-</p>
--->
 
 ---
 
-> 💬 **Quote:** "The only way to do great work is to love what you do." - Steve Jobs (Change this to a quote you like!)
+### 💬 Connect with Me
+
+<p align="center">
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+<a href="https://linkedin.com/in/yourlinkedinprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</p>
