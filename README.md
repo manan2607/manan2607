@@ -48,17 +48,15 @@ My repositories showcase end-to-end automation and application development acros
 | Project Name | Primary Domain | Skills Validated | 
  | ----- | ----- | ----- | 
 | **Colgate Workflows** | Enterprise DevSecOps | **Terraform**, **Okta/SCIM**, GCP Infrastructure, Snowflake/DOMO Integration | 
-| **FinZen** | **Financial MLOps** | Quant Metrics (Sharpe/Alpha), Time Series Analysis, **Automated Reporting (GitHub Actions)** | 
+| **Multi Modal System** | **Advanced AI** | Multimodal Input Analysis (Face/Voice), Deepface, Whisper Integration | 
 | **QuickBytes** | **NLP Automation** | Generative AI (Hugging Face), Web Scraping, CI/CD Pipeline Reliability | 
+| **FinZen** | **Financial MLOps** | Quant Metrics (Sharpe/Alpha), Time Series Analysis, **Automated Reporting (GitHub Actions)** | 
 | **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP | 
 | **Fione** | **Computer Vision** | Deep Learning, Transfer Learning, Image Classification (Fire Detection) | 
-| **Multi Modal System** | **Advanced AI** | Multimodal Input Analysis (Face/Voice), Deepface, Whisper Integration | 
 
 ---
 
 ### 🔥 Certifications & Looking Ahead
-
-* **Learning:** Deepening my expertise in **Kubernetes** and **MLflow**.
 
 * **Certifications:** Planning the **HashiCorp Certified: Terraform Associate** and **Google Professional Cloud ML Engineer** certifications.
 
