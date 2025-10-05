@@ -33,7 +33,7 @@ This section highlights the specialized, high-value skills sought by top remote 
 | Category | Key Tools & Expertise | 
  | ----- | ----- | 
 | **Cloud & Infrastructure** | **GCP** (Cloud Run Functions, APIGW), **Terraform** (IaC), **Snowflake**, Python | 
-| **Automation & DevOps** | **GitHub Actions** (CI/CD), CI/CD/CT Pipeline Design, Bash Scripting, Testing Automation | 
+| **Automation & DevOps** | **GitHub Actions** (CI/CD), CI/CD/CT Pipeline Design, Testing Automation | 
 | **AI/ML/DL** | Python, Pandas, NLP (Hugging Face Transformers), Transfer Learning, Financial Metrics (Sharpe/Alpha) | 
 | **Security & Governance** | **Okta/SCIM** Integration, Data Warehouse Security, IaC Security, Enterprise Automation | 
 
