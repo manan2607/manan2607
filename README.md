@@ -67,7 +67,6 @@ My repositories showcase end-to-end automation and application development acros
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan2607&layout=compact&langs_count=6&theme=dark&hide_border=true&hide_title=true" alt="Top Languages" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2607&theme=dark&hide_border=true&hide_title=true" alt="manan2607's GitHub Streak Stats" />
 </p>
-</p>
 
 ---
 
