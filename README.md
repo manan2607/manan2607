@@ -6,22 +6,11 @@ I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging 
 
 ---
 
-### 🏆 Key Skills & Certifications (Quick Scan for Recruiters)
-
-These badges provide an instant visual summary of my production stack:
+### 🏆 Key Production Skills (Quick Scan for Recruiters)
 
 <p align="center">
-    <!-- Row 1: MLOps / Automation / IaC -->
-    <img src="https://img.shields.io/badge/MLOps%20Automation-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
-    <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B4397?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
-    <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-    <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
-    <br>
-    <!-- Row 2: Cloud / AI / Security -->
-    <img src="https://img.shields.io/badge/Cloud%20Platform-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Badge"/>
-    <img src="https://img.shields.io/badge/AI%2FDL%20Frameworks-Hugging%20Face-FFD131?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
-    <img src="https://img.shields.io/badge/Data%20Warehouse-Snowflake-28B4E6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
-    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <!-- Using Skill Icons for a clean, unified look. Icons are listed in a single row for density. -->
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,docker,kubernetes,terraform,githubactions,snowflake,gith,fastapi,flask" alt="Skill Icons"/>
 </p>
 
 ---
@@ -64,12 +53,12 @@ My repositories showcase end-to-end automation and application development acros
 
 ---
 
-### 🌱 GitHub Stats (Clean Dark Theme)
+### 🌱 GitHub Stats (Balanced Dark Theme)
 
 <p align="center">
-    <!-- Using the 'dark' theme for better contrast and universally accepted dark mode colors -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=manan2607&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&hide=issues,prs,contribs" width="400" alt="Manan's GitHub Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan2607&layout=compact&langs_count=6&theme=dark&hide_border=true&hide_title=true" width="400" alt="Top Languages" />
+    <!-- Removed fixed widths to balance the cards. Switched to 'dark' theme for readability. -->
+    <img src="https://github-readme-stats.vercel.app/api?username=manan2607&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&hide=issues,prs,contribs" alt="Manan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan2607&layout=compact&langs_count=6&theme=dark&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
