@@ -9,8 +9,8 @@ I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging 
 ### 🏆 Key Production Skills (Quick Scan for Recruiters)
 
 <p align="center">
-    <!-- Using Skill Icons for a clean, unified look. Icons are listed in a single row for density. -->
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,docker,kubernetes,terraform,githubactions,snowflake,gith,fastapi,flask" alt="Skill Icons"/>
+    <!-- Using Skill Icons for a clean, unified look. Corrected icons for Git and verified others. -->
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,docker,kubernetes,terraform,githubactions,snowflake,git,fastapi,flask" alt="Skill Icons"/>
 </p>
 
 ---
@@ -56,7 +56,6 @@ My repositories showcase end-to-end automation and application development acros
 ### 🌱 GitHub Stats (Balanced Dark Theme)
 
 <p align="center">
-    <!-- Removed fixed widths to balance the cards. Switched to 'dark' theme for readability. -->
     <img src="https://github-readme-stats.vercel.app/api?username=manan2607&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&hide=issues,prs,contribs" alt="Manan's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan2607&layout=compact&langs_count=6&theme=dark&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
