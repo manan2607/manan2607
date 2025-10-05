@@ -1,10 +1,10 @@
-# Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
+# Hi, I'm Manan | Applied AI & MLOps Engineer
 
 I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
 
 ---
 
-### 🏆 Key Skills & Certifications
+###  Key Skills & Certifications
 
 These badges provide an instant visual summary of my production stack:
 
@@ -26,7 +26,7 @@ These badges provide an instant visual summary of my production stack:
 
 ---
 
-### 🚀 The Full-Stack AI/MLOps Stack
+### The Full-Stack AI/MLOps Stack
 
 This section highlights the specialized, high-value skills sought by top remote companies.
 
@@ -39,7 +39,7 @@ This section highlights the specialized, high-value skills sought by top remote 
 
 ---
 
-### 💻 Signature Projects
+### Signature Projects
 
 My repositories showcase end-to-end automation and application development across diverse domains.
 
@@ -54,7 +54,7 @@ My repositories showcase end-to-end automation and application development acros
 
 ---
 
-### 🔥 Certifications & Looking Ahead
+### Certifications & Looking Ahead
 
 * **Certifications:** Planning the **HashiCorp Certified: Terraform Associate** and **Google Professional Cloud ML Engineer** certifications.
 
@@ -62,7 +62,7 @@ My repositories showcase end-to-end automation and application development acros
 
 ---
 
-### 🌱 GitHub Stats (Balanced Dark Theme)
+### GitHub Stats (Balanced Dark Theme)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=manan2607&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&hide=issues,prs,contribs" alt="Manan's GitHub Stats" />
