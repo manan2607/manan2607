@@ -1,12 +1,12 @@
 # Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
 
-### Data Scientist 💡 | Cloud Automation Specialist ⚙️ | DevSecOps Advocate 🛡️
+---
 
 I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
 
 ---
 
-### 🏆 Key Skills & Certifications (Quick Scan for Recruiters)
+### 🏆 Key Skills & Certifications
 
 These badges provide an instant visual summary of my production stack:
 
@@ -14,19 +14,21 @@ These badges provide an instant visual summary of my production stack:
     <!-- Row 1: MLOps / Automation / IaC -->
     <img src="https://img.shields.io/badge/MLOps%20Automation-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
     <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B4397?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
+    <br>
     <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
     <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
     <br>
     <!-- Row 2: Cloud / AI / Security -->
     <img src="https://img.shields.io/badge/Cloud%20Platform-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Badge"/>
     <img src="https://img.shields.io/badge/AI%2FDL%20Frameworks-Hugging%20Face-FFD131?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
+    <br>
     <img src="https://img.shields.io/badge/Data%20Warehouse-Snowflake-28B4E6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
     <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </p>
 
 ---
 
-### 🚀 The Full-Stack AI/MLOps Stack (Your Value Proposition)
+### 🚀 The Full-Stack AI/MLOps Stack
 
 This section highlights the specialized, high-value skills sought by top remote companies.
 
@@ -39,7 +41,7 @@ This section highlights the specialized, high-value skills sought by top remote 
 
 ---
 
-### 💻 Signature Projects (Proof of Production Skills & Versatility)
+### 💻 Signature Projects
 
 My repositories showcase end-to-end automation and application development across diverse domains.
 
@@ -60,7 +62,7 @@ My repositories showcase end-to-end automation and application development acros
 
 * **Certifications:** Planning the **HashiCorp Certified: Terraform Associate** and **Google Professional Cloud ML Engineer** certifications.
 
-* **Goal:** Seeking a challenging **MLOps Engineer** or **Applied AI Engineer (Remote/Global)** position to maximize my impact and earnings.
+* **Goal:** Seeking a challenging **MLOps Engineer** or **Applied AI Engineer** position to maximize my learnings and impact.
 
 ---
 
@@ -76,6 +78,6 @@ My repositories showcase end-to-end automation and application development acros
 ### 💬 Connect with Me
 
 <p align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-    <a href="https://linkedin.com/in/yourlinkedinprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="mailto:manangupta.2607@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+    <a href="https://www.linkedin.com/in/manan26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>
