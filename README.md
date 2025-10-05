@@ -11,20 +11,16 @@ These badges provide an instant visual summary of my production stack:
 <p align="center">
     <!-- Row 1: MLOps / Automation / IaC -->
     <img src="https://img.shields.io/badge/MLOps%20Automation-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
-    <br>
     <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B4397?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
     <br>
     <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-    <br>
     <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
     <br>
     <!-- Row 2: Cloud / AI / Security -->
     <img src="https://img.shields.io/badge/Cloud%20Platform-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Badge"/>
-    <br>
     <img src="https://img.shields.io/badge/AI%2FDL%20Frameworks-Hugging%20Face-FFD131?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
     <br>
     <img src="https://img.shields.io/badge/Data%20Warehouse-Snowflake-28B4E6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
-    <br>
     <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </p>
 
