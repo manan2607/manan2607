@@ -1,6 +1,6 @@
 # Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
 
----
+----
 
 I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
 
@@ -34,7 +34,7 @@ This section highlights the specialized, high-value skills sought by top remote 
 
 | Category | Key Tools & Expertise | 
  | ----- | ----- | 
-| **Cloud & Infrastructure** | **GCP** (Cloud Run Functions, APIGW), **Terraform** (IaC), Docker, Kubernetes (Basic), **Snowflake**, Python | 
+| **Cloud & Infrastructure** | **GCP** (Cloud Run Functions, APIGW), **Terraform** (IaC), **Snowflake**, Python | 
 | **Automation & DevOps** | **GitHub Actions** (CI/CD), CI/CD/CT Pipeline Design, Bash Scripting, Testing Automation | 
 | **AI/ML/DL** | Python, Pandas, NLP (Hugging Face Transformers), Transfer Learning, Financial Metrics (Sharpe/Alpha) | 
 | **Security & Governance** | **Okta/SCIM** Integration, Data Warehouse Security, IaC Security, Enterprise Automation | 
