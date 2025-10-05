@@ -1,10 +1,10 @@
 # Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
 
-----
+---
 
 I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
 
----
+--
 
 ### 🏆 Key Skills & Certifications
 
@@ -26,7 +26,7 @@ These badges provide an instant visual summary of my production stack:
     <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </p>
 
----
+--
 
 ### 🚀 The Full-Stack AI/MLOps Stack
 
@@ -39,7 +39,7 @@ This section highlights the specialized, high-value skills sought by top remote 
 | **AI/ML/DL** | Python, Pandas, NLP (Hugging Face Transformers), Transfer Learning, Financial Metrics (Sharpe/Alpha) | 
 | **Security & Governance** | **Okta/SCIM** Integration, Data Warehouse Security, IaC Security, Enterprise Automation | 
 
----
+--
 
 ### 💻 Signature Projects
 
@@ -54,7 +54,7 @@ My repositories showcase end-to-end automation and application development acros
 | **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP | 
 | **Fione** | **Computer Vision** | Deep Learning, Transfer Learning, Image Classification (Fire Detection) | 
 
----
+--
 
 ### 🔥 Certifications & Looking Ahead
 
@@ -62,7 +62,7 @@ My repositories showcase end-to-end automation and application development acros
 
 * **Goal:** Seeking a challenging **MLOps Engineer** or **Applied AI Engineer** position to maximize my learnings and impact.
 
----
+--
 
 ### 🌱 GitHub Stats (Balanced Dark Theme)
 
