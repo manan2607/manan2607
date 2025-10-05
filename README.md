@@ -9,8 +9,12 @@ I am a recent AI & DS Engineering graduate from SPPU, Pune, focused on bridging 
 ### 🏆 Key Production Skills (Quick Scan for Recruiters)
 
 <p align="center">
-    <!-- Using Skill Icons for a clean, unified look. Corrected icons for Git and verified others. -->
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,docker,kubernetes,terraform,githubactions,snowflake,git,fastapi,flask" alt="Skill Icons"/>
+    <!-- Using a mix of skill icons and custom shields for maximum visibility and reliability -->
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,docker,kubernetes,terraform,githubactions,git,fastapi,flask" alt="Core Skill Icons"/>
+    
+    <!-- Custom badge for Snowflake and Okta/SCIM for guaranteed display -->
+    <img src="https://img.shields.io/badge/Data%20Warehouse-Snowflake-28B4E6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
+    <img src="https://img.shields.io/badge/Identity%20Access-Okta%2FSCIM-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta Badge"/>
 </p>
 
 ---
@@ -21,7 +25,7 @@ This section highlights the specialized, high-value skills sought by top remote 
 
 | Category | Key Tools & Expertise | 
  | ----- | ----- | 
-| **Cloud & Infrastructure** | **GCP** (Cloud Run Functions, APIGW), **Terraform** (IaC), Docker, Kubernetes (Basic), Snowflake, Python | 
+| **Cloud & Infrastructure** | **GCP** (Cloud Run Functions, APIGW), **Terraform** (IaC), Docker, Kubernetes (Basic), **Snowflake**, Python | 
 | **Automation & DevOps** | **GitHub Actions** (CI/CD), CI/CD/CT Pipeline Design, Bash Scripting, Testing Automation | 
 | **AI/ML/DL** | Python, Pandas, NLP (Hugging Face Transformers), Transfer Learning, Financial Metrics (Sharpe/Alpha) | 
 | **Security & Governance** | **Okta/SCIM** Integration, Data Warehouse Security, IaC Security, Enterprise Automation | 
