@@ -1,7 +1,7 @@
 # Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
 
 I am a 2025 Artificial Intelligence and Data Science Engineering Graduate, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
-
+ 
 ---
 
 ### 🏆 Key Skills & Certifications
