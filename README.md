@@ -56,7 +56,7 @@ My repositories showcase end-to-end automation and application development acros
 
 * **Certifications:** Planning the **HashiCorp Certified: Terraform Associate** and **Google Professional Cloud ML Engineer** certifications.
 
-* **Goal:** Seeking a challenging **MLOps Engineer** or **Applied AI Engineer** position to maximize my learnings and impact.
+* **Goal:** Seeking a challenging **Data Scientist** position to maximize my learnings and impact.
 
 ---
 
