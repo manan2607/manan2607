@@ -41,7 +41,7 @@ My repositories showcase end-to-end automation and application development acros
 | :--- | :--- | :--- | :--- |
 | **1** | **Poker Hand Analyzer** | **Advanced Algorithms** | **Monte Carlo Simulation**, Probability Theory, Complex Algorithm Design |
 | **2** | **FinZen** | **Financial MLOps** | Quant Metrics (Sharpe/Alpha), Time Series Analysis, **Automated Reporting (GitHub Actions)** |
-| **3** | **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP |
+###| **3** | **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP |
 | **4** | **Multi Modal System** | **Advanced AI** | Multimodal Input Analysis (Face/Voice), Deepface, Whisper Integration |
 | **5** | **Air Canvas** | **Real-Time Computer Vision** | **OpenCV**, HSV Color Masking, Real-Time Object Tracking |
 | **6** | **QuickBytes** | **NLP Automation** | Generative AI (Hugging Face), Web Scraping, **CI/CD Pipeline Reliability** |
