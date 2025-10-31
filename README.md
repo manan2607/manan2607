@@ -28,8 +28,6 @@ These badges provide an instant visual summary of my production stack:
 
 ### 🚀 Core Data Scientist Stack
 
-This stack highlights the specialized technical depth required to design, build, and productionize high-impact predictive and generative models.
-
 | Category | Key Tools & Expertise |
 | :--- | :--- |
 | **Statistical & Model Rigor** | Python, Pandas, **Advanced Algorithms** (Monte Carlo), Time Series Analysis, Quant Metrics (Sharpe/Alpha), **Advanced DSA** |
@@ -39,7 +37,7 @@ This stack highlights the specialized technical depth required to design, build,
 
 ---
 
-### 💻 Signature Projects (Ranked for Data Scientist Roles)
+### 💻 Signature Projects
 
 My repositories showcase end-to-end automation and application development across diverse domains.
 
@@ -63,8 +61,8 @@ My repositories showcase end-to-end automation and application development acros
 
 ---
 
-### 🌱 GitHub Stats (Balanced Dark Theme)
-
+### 🌱 GitHub Stats
+[![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan2607)](https://github.com/manan2607/github-readme-stats)
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=manan2607&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true&hide=issues,prs,contribs" alt="Manan's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan2607&layout=compact&langs_count=6&theme=dark&hide_border=true&hide_title=true" alt="Top Languages" />
@@ -75,6 +73,6 @@ My repositories showcase end-to-end automation and application development acros
 ### 💬 Connect with Me
 
 <p align="center">
-    <a href="mailto:manangupta.2607@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+    <a href="mailto:manangupta.2607@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
     <a href="https://www.linkedin.com/in/manan26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>
