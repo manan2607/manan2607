@@ -6,8 +6,6 @@ I am a 2025 Artificial Intelligence and Data Science Engineering Graduate, focus
 
 ### 🏆 Key Skills & Certifications
 
-These badges provide an instant visual summary of my production stack:
-
 <p align="center">
     <img src="https://img.shields.io/badge/MLOps%20Automation-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
     <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B4397?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
