@@ -45,7 +45,6 @@ My repositories showcase end-to-end automation and application development acros
 | **4** | **Air Canvas** | **Real-Time Computer Vision** | **OpenCV**, HSV Color Masking, Real-Time Object Tracking |
 | **5** | **QuickBytes** | **NLP Automation** | Generative AI (Hugging Face), Web Scraping, **CI/CD Pipeline Reliability** |
 | **6** | **Fione** | **Computer Vision** | Deep Learning, Transfer Learning, Image Classification (Fire Detection) |
-<!-- comment -->| **7** | **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP |
 
 ---
 
