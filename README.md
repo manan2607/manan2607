@@ -1,14 +1,12 @@
-# Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
+# Hi, I'm Manan 👋 | Data Scientist & Statistical Modeler
 
-I am a 2025 Artificial Intelligence and Data Science Engineering Graduate, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
+I am a 2025 Artificial Intelligence and Data Science Engineering Graduate, focused on translating complex data into clear, actionable business insights. My expertise lies in designing and implementing robust statistical models, driving data-informed strategy, and deploying scalable solutions that optimize decision-making and generate tangible **ROI**.
 
 ---
 
 ### 🏆 Key Skills & Certifications
 
 These badges provide an instant visual summary of my production stack:
-
-
 
 <p align="center">
     <img src="https://img.shields.io/badge/MLOps%20Automation-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
@@ -58,12 +56,6 @@ My repositories showcase end-to-end automation and application development acros
 * **Certifications:** Planning the **HashiCorp Certified: Terraform Associate** and **Google Professional Cloud ML Engineer** certifications.
 
 * **Goal:** Seeking a challenging **Data Scientist** position to maximize my learnings and impact.
-
----
-
-### 🌱 GitHub Stats
-
-[![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan2607&theme=dark)](https://github.com/manan2607/github-readme-stats)
 
 ---
 
