@@ -1,7 +1,7 @@
 # Hi, I'm Manan 👋 | Applied AI & MLOps Engineer
 
 I am a 2025 Artificial Intelligence and Data Science Engineering Graduate, focused on bridging the gap between Machine Learning experimentation and production deployment. My professional and personal projects demonstrate expertise in building secure, fully automated data and model pipelines using Infrastructure-as-Code and CI/CD best practices.
- 
+
 ---
 
 ### 🏆 Key Skills & Certifications
@@ -16,7 +16,7 @@ These badges provide an instant visual summary of my production stack:
     <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
     <br>
     <img src="https://img.shields.io/badge/Cloud%20Platform-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Badge"/>
-    <img src="https://img.shields.io/badge/AI%2FDL%20Frameworks-Hugging%20Face-FFD131?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
+    <img src="https://img.shields.io/badge/AI%2FDL%20Frameworks-Hugging%20Face-FFD131?style=for-for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Badge"/>
     <br>
     <img src="https://img.shields.io/badge/Data%20Warehouse-Snowflake-28B4E6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
     <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -24,31 +24,19 @@ These badges provide an instant visual summary of my production stack:
 
 ---
 
-### 🚀 The Full-Stack AI/MLOps Stack
-
-This section highlights the specialized, high-value skills sought by top remote companies.
-
-| Category | Key Tools & Expertise | 
- | ----- | ----- | 
-| **Cloud & Infrastructure** | **GCP** (Cloud Run Functions, APIGW), **Terraform** (IaC), **Snowflake**, Python | 
-| **Automation & DevOps** | **GitHub Actions** (CI/CD), CI/CD/CT Pipeline Design, Testing Automation | 
-| **AI/ML/DL** | Python, Pandas, NLP (Hugging Face Transformers), Transfer Learning, Financial Metrics (Sharpe/Alpha) | 
-| **Security & Governance** | **Okta/SCIM** Integration, Data Warehouse Security, IaC Security, Enterprise Automation | 
-
----
-
-### 💻 Signature Projects
+### 💻 Signature Projects (Ranked for Data Scientist Roles)
 
 My repositories showcase end-to-end automation and application development across diverse domains.
 
-| Project Name | Primary Domain | Skills Validated | 
- | ----- | ----- | ----- | 
-| **Colgate Workflows** | Enterprise DevSecOps | **Terraform**, **Okta/SCIM**, GCP Infrastructure, Snowflake/DOMO Integration | 
-| **Multi Modal System** | **Advanced AI** | Multimodal Input Analysis (Face/Voice), Deepface, Whisper Integration | 
-| **QuickBytes** | **NLP Automation** | Generative AI (Hugging Face), Web Scraping, CI/CD Pipeline Reliability | 
-| **FinZen** | **Financial MLOps** | Quant Metrics (Sharpe/Alpha), Time Series Analysis, **Automated Reporting (GitHub Actions)** | 
-| **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP | 
-| **Fione** | **Computer Vision** | Deep Learning, Transfer Learning, Image Classification (Fire Detection) | 
+| Rank | Project Name | Primary Domain | Skills Validated |
+| :--- | :--- | :--- | :--- |
+| **1** | **Poker Hand Analyzer** | **Advanced Algorithms** | **Monte Carlo Simulation**, Probability Theory, Complex Algorithm Design |
+| **2** | **FinZen** | **Financial MLOps** | Quant Metrics (Sharpe/Alpha), Time Series Analysis, **Automated Reporting (GitHub Actions)** |
+| **3** | **Medibot** | **Generative AI Chatbot** | LLMs, PDF Analysis, Contextual Q&A, NLP |
+| **4** | **Multi Modal System** | **Advanced AI** | Multimodal Input Analysis (Face/Voice), Deepface, Whisper Integration |
+| **5** | **Air Canvas: Virtual Drawing Board** | **Real-Time Computer Vision** | **OpenCV**, HSV Color Masking, Real-Time Object Tracking |
+| **6** | **QuickBytes** | **NLP Automation** | Generative AI (Hugging Face), Web Scraping, **CI/CD Pipeline Reliability** |
+| **7** | **Fione** | **Computer Vision** | Deep Learning, Transfer Learning, Image Classification (Fire Detection) |
 
 ---
 
