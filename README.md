@@ -24,6 +24,19 @@ These badges provide an instant visual summary of my production stack:
 
 ---
 
+### 🚀 Core Data Scientist Stack
+
+This stack highlights the specialized technical depth required to design, build, and productionize high-impact predictive and generative models.
+
+| Category | Key Tools & Expertise |
+| :--- | :--- |
+| **Statistical & Model Rigor** | Python, Pandas, **Advanced Algorithms** (Monte Carlo), Time Series Analysis, Quant Metrics (Sharpe/Alpha), **Advanced DSA** |
+| **Applied AI & Deep Learning** | **Generative AI** (LLMs, RAG), NLP (**Hugging Face**), Computer Vision (OpenCV), Multimodal Systems, Transfer Learning |
+| **Data Platform & SQL** | **Snowflake**, Advanced SQL, Data Modeling, Data Cleaning/Wrangling, Data Warehouse Security |
+| **Production Engineering (MLOps)** | **Terraform** (IaC), **GitHub Actions** (CI/CD/CT), Docker, Kubernetes, GCP (Cloud Run) |
+
+---
+
 ### 💻 Signature Projects (Ranked for Data Scientist Roles)
 
 My repositories showcase end-to-end automation and application development across diverse domains.
